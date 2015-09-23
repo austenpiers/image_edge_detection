@@ -1,0 +1,8 @@
+Pogrammer:	Austen Piers
+
+Title:	Homework turn-in for project 1 of cs181b
+How to run (in this directory): <path/name> = path to the picture with name (ex. ~/MyPicture/Me.png)
+	In MATLAB:
+		runHW1('<path/name>')
+	In Terminal:
+		./fs/ece/Matlab/R2014b/bin/matlab -nojvm -nodisplay -nosplash -r "runHW1('<path/name>');exit;"
